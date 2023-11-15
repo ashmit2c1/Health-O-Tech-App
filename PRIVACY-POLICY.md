@@ -1,5 +1,5 @@
 
-# Privacy Policy
+# Privacy Policy for Health O Tech App
 
 Developer Name - Ashmit Chugh
 

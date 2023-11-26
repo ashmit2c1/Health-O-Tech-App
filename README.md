@@ -33,7 +33,5 @@ The app makes use of the following packages
 <img src="https://raw.githubusercontent.com/ashmit2c1/Health-O-Tech-App/master/screenshots/0.png" width="235" height="450"/> <img src="https://raw.githubusercontent.com/ashmit2c1/Health-O-Tech-App/master/screenshots/1.png" width="235" height="450"/> <img src="https://raw.githubusercontent.com/ashmit2c1/Health-O-Tech-App/master/screenshots/2.png" width="235" height="450"/> <img src="https://raw.githubusercontent.com/ashmit2c1/Health-O-Tech-App/master/screenshots/3.png" width="235" height="450"/>
 
 
-### Get in on Google Play
-<a href="https://play.google.com/store/apps/details?id=com.ashmitchugh.healthotechrelease" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ashmit2c1/Health-O-Tech-App/master/screenshots/google-play-badge.png" width="200" height="75" />
 
 
